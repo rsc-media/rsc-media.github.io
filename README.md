@@ -1,3 +1,7 @@
+## Rio Salado College - Instructional Media Team
+
+Newly created GitHub Pages root.  Much still to do.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rsc-media/rsc-media.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
