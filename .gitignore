@@ -1,0 +1,4 @@
+# Claude Code agent-local state — per-machine, per-session, never committed.
+# Rule: rsc-media/docs AGENTS.md, "Per-repo agent-config convention". AGENTS.md and
+# CLAUDE.md are the tracked, shared guidance; everything under .claude/ is not.
+.claude/
